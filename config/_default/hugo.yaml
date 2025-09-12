@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: HZCU HPC Team # Website name
+baseURL: 'https://hpc.hzcu.edu.cn/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -44,7 +44,7 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
-  publication_type: publication_types
+  # publication_type: publication_types
   author: authors
 markup:
   _merge: deep

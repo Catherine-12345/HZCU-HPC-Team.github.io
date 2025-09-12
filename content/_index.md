@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: HZCU-HPCT
 date: 2022-10-24
 type: landing
 
@@ -8,18 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        HZCU HPC Team
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        浙大城市学院高性能计算(HPC)团队是一个充满活力的学生团队，我们致力于高性能计算领域。
   
   - block: collection
     content:
-      title: Latest News
+      title: Introduction
       subtitle:
       text:
       count: 5
@@ -31,43 +29,43 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: recruitment
     design:
       view: card
       columns: '1'
   
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      title: Accomplishments
+      text: |
+        - **IPCC Excellence Award**  
+          *Date:* Aug. 2022
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
+        - **CPC Excellence Award**  
+          *Date:* Aug. 2023
+
+        - **ASC2024 Second Prize**  
+          *Date:* Feb. 2024
+
+        - **ASC2025 Second Prize**  
+          *Date:* Feb. 2025
     design:
-      view: citation
       columns: '1'
+    id: accomplishments
+
+# ERROR：Bao Zhuhan: 当前Publication页面无实际超链接，该部分停用
+  # - block: collection
+  #   content:
+  #     title: Latest Preprints
+  #     text: ""
+  #     count: 5
+  #     filters:
+  #       folders:
+  #         - publication
+  #       publication_type: 'article'
+  #   design:
+  #     view: citation
+  #     columns: '1'
 
   - block: markdown
     content:

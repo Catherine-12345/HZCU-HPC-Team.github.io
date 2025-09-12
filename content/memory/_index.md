@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Wonderful Memory
 
 # Listing view
 view: compact

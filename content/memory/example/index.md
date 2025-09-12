@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: ASC2025
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,13 +12,13 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
+summary: GO GO GO 出发喽！
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-02-01T13:00:00Z'
+date_end: '2025-02-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -54,7 +54,7 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+北京两日游:
 
 - **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
