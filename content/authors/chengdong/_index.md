@@ -1,9 +1,9 @@
 ---
 # Display name
-title: "chengdong S 沈铖栋"
+title: "Chengdong S 沈铖栋"
 
 # Full name (for SEO)
-first_name: "chengdong"
+first_name: "Chengdong"
 last_name: "S"
 
 # Username (this should match the folder name)
