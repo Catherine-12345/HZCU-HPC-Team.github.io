@@ -14,7 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Team member of HPCT
+role: Member of the HZCU High-Performance Computing Team
+
 
 # Organizations/Affiliations
 organizations:

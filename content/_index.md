@@ -10,14 +10,14 @@ sections:
       title: |
         HZCU HPC Team
       image:
-        filename: welcome.png
+        filename: banner.jpg
       text: |
         <br>
         浙大城市学院高性能计算(HPC)团队是一个充满活力的学生团队，我们致力于高性能计算领域。
   
   - block: collection
     content:
-      title: Introduction
+      title: INTRODUCTION
       subtitle:
       text:
       count: 5
@@ -36,7 +36,7 @@ sections:
   
   - block: markdown
     content:
-      title: Accomplishments
+      title: ACCOMPLISHMENTS
       text: |
         - **IPCC Excellence Award**  
           *Date:* Aug. 2022
@@ -75,4 +75,6 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
+
 ---

@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Team member of High-Performance Computing Team at Hangzhou City University
+role: Leader of High-Performance Computing Team at Hangzhou City University
 
 # Organizations/Affiliations
 organizations:

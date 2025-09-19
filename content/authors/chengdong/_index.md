@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Team member of High-Performance Computing Team at Hangzhou City University"
+role: "Former member of the HZCU High-Performance Computing Team"
 
 # Organizations/Affiliations
 organizations:
@@ -50,5 +50,5 @@ email: '2193389150@qq.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - "Team members"
+  - Alumni
 ---

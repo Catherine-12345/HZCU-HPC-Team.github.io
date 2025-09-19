@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Team Leader of High-Performance Computing Team at Hangzhou City University
+role: Former Leader of the HZCU High-Performance Computing Team
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,7 @@ email: 'eason241008@163.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team members
+  - Alumni
 ---
 
 绷不住了孩子们

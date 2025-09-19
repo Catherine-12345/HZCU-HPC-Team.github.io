@@ -10,7 +10,7 @@ last_name: Sheng
 superuser: false
 
 # Role/position
-role: Team member of High-Performance Computing Team at Hangzhou City University
+role: Member of the HZCU High-Performance Computing Team
 # Organizations/Affiliations
 organizations:
   - name: Hangzhou City University
