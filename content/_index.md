@@ -9,8 +9,8 @@ sections:
     content:
       title: |
         HZCU HPC Team
-      image:
-        filename: banner.jpg
+      # image:
+      #   filename: banner.jpg
       text: |
         <br>
         浙大城市学院高性能计算(HPC)团队是一个充满活力的学生团队，我们致力于高性能计算领域。
